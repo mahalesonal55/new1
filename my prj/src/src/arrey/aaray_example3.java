@@ -1,6 +1,7 @@
 package arrey;
 
 public class aaray_example3 {  
+
 	
 // declaration initialization in one line
 	
@@ -12,6 +13,8 @@ public class aaray_example3 {
 	
 		
 	public static void main(String[] args) {
+		
+		//System.out.println(); for git --changes
 	
 	aaray_example3 obj=new aaray_example3();
 	System.out.println(obj.a.length);
